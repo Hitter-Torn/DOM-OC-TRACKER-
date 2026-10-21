@@ -64,7 +64,7 @@ function makeServerUrl() {
         width:100%;
         box-sizing:border-box;">
         <div style="display:flex;align-items:center;justify-content:space-between;">
-          <div style="font-weight:700; font-size:18px;">DOM OC Delay Tracker v2</div>
+          <div style="font-weight:700; font-size:18px;">DOM OC Delay Tracker v2.2</div>
           <div>
             <button id="tfoc-tab-home" style="margin-right:6px;padding:6px 8px;border-radius:4px;border:1px solid #aaa;background:#d9d9d9;cursor:pointer;">Home</button>
             <button id="tfoc-tab-logs" style="padding:6px 8px;border-radius:4px;border:1px solid #007bff;background:#007bff;color:#fff;cursor:pointer;">Logs</button>
