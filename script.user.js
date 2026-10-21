@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DOM OC TRACKER V2.2
 // @namespace    torn-faction-oc
-// @version      2.0
+// @version      2.2
 // @description  Show delayed oc's
 // @match        https://www.torn.com/factions.php?step=your*
 // @grant        GM_xmlhttpRequest
